@@ -1,0 +1,16 @@
+# 生成物与真实数据，不要提交
+out/
+content/
+prompts/
+*.xls
+*.xlsx
+students.json
+content_batch_*.json
+pwd*.csv
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# 含真实姓名的截图，默认不进仓库；如需公开请先打码
+docs/screenshots/
